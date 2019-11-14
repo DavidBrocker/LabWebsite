@@ -1,0 +1,36 @@
+---
+title: ''
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Current Lab Members:
+
+Michaela Porubanova PhD. - Principal Investigator
+
+> Quote from Michaela 
+
+David Brocker - Laboratory Manager
+
+> Quote from David 
+
+Ellen Vecchio - Research Assistant
+
+> Quote from Ellen 
+
+Monika Kowalewska - Research Assistant
+
+> Quote from Monika 
+
+Serena Napolitano - Research Assistant
+
+> Quote from Serena
+
+Tashay Anderson - Research Assistant
+
+> Quote from Tashay 
+
+
