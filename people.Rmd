@@ -7,29 +7,57 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+  <style>
+    img{
+    width: 15%;
+    border:5px solid; 
+    margin-right: 20px" 
+    align="left"
+  }
+  </style>
+
+
 # Current Lab Members:
 
-Michaela Porubanova PhD. - Principal Investigator
+<em>Michaela Porubanova PhD. - Principal Investigator</em>
+
+<a href="https://farmingdale.academia.edu/MichaelaPorubanova"><img src="images/s200_michaela.porubanova.jpg" alt="michaela"></a>
 
 > Quote from Michaela 
 
-David Brocker - Laboratory Manager
 
-> Quote from David 
+<em>David Brocker - Laboratory Manager</em>
 
-Ellen Vecchio - Research Assistant
+<a href="https://davidbrocker.github.io/DBPSYC3400/"><img src="images/dave.jpg" alt="dave"></a>
+
+> I am interested in the role that perception plays in our encounters with people. 
+
+
+<em>Ellen Vecchio - Research Assistant</em>
+
+<a href="https://davidbrocker.github.io/DBPSYC3400/"><img src="images/doodles.jpg" alt ="ellen"></a>
 
 > Quote from Ellen 
 
-Monika Kowalewska - Research Assistant
+
+<em>Monika Kowalewska - Research Assistant</em>
+
+<a href="https://davidbrocker.github.io/DBPSYC3400/"><img src="images/doodles.jpg" alt ="monika"></a>
+
 
 > Quote from Monika 
 
-Serena Napolitano - Research Assistant
+
+<em>Serena Napolitano - Research Assistant</em>
+
+<a href="https://davidbrocker.github.io/DBPSYC3400/"><img src="images/doodles.jpg" alt ="serena"></a>
 
 > Quote from Serena
 
-Tashay Anderson - Research Assistant
+
+<em>Tashay Anderson - Research Assistant</em>
+
+<a href="https://davidbrocker.github.io/DBPSYC3400/"><img src="images/doodles.jpg" alt ="tashay"></a>
 
 > Quote from Tashay 
 

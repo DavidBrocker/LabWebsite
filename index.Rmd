@@ -5,6 +5,8 @@ title: "PsychLab"
 
 Welcome to the laboratory of Dr. Michaela Porubanova! 
 
+<img src="images/35_kanizsa_main.png" style: align="right">
+
 ***
 
 We are interested in studying emotion, attention, perception, and memory. Currently we are investigating the role that minimally counter-intuitive ideas play in our recall. 
